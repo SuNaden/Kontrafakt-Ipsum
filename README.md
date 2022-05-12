@@ -1,12 +1,17 @@
 # Kontrafakt Ipsum
 
-![](./icon.png)
+![Ide Paťo](./icon.png)
 
-Alfred workflow to generate lorem ipsum based on Kontrafakt lyrics.
+Alfred workflow to generate lorem ipsum based on Kontrafakt lyrics. Recommended by 5 out of 5 Paťos.
 
+### Usage
 Usage in Alfred that generates the first 120 words of a random Kontrafakt song.
 ```
-kntrfkt 120
+kntrfkt 40
 ```
-
-Recommended by 5 out of 5 Paťos.
+Generated sample
+```
+Neska všetci žúrujú a kúrujú, iba tá holka odvedla na mňa dajak blbo čumí, 
+buď sa jej lúbim, alebo mój bicykel, alebo me album, alebo ma súdi ešte len, 
+vlastne viem, myslí si, že moji kamoši vykradli jej vchod.
+```
